@@ -1,0 +1,14 @@
+C:\Users\Yesica Moreno\source\repos\E15_DivisiblesEntre2\E15_DivisiblesEntre2\bin\Debug\E15_DivisiblesEntre2.exe.config
+C:\Users\Yesica Moreno\source\repos\E15_DivisiblesEntre2\E15_DivisiblesEntre2\bin\Debug\E15_DivisiblesEntre2.exe
+C:\Users\Yesica Moreno\source\repos\E15_DivisiblesEntre2\E15_DivisiblesEntre2\bin\Debug\E15_DivisiblesEntre2.pdb
+C:\Users\Yesica Moreno\source\repos\E15_DivisiblesEntre2\E15_DivisiblesEntre2\obj\Debug\E15_DivisiblesEntre2.csprojAssemblyReference.cache
+C:\Users\Yesica Moreno\source\repos\E15_DivisiblesEntre2\E15_DivisiblesEntre2\obj\Debug\E15_DivisiblesEntre2.csproj.CoreCompileInputs.cache
+C:\Users\Yesica Moreno\source\repos\E15_DivisiblesEntre2\E15_DivisiblesEntre2\obj\Debug\E15_DivisiblesEntre2.exe
+C:\Users\Yesica Moreno\source\repos\E15_DivisiblesEntre2\E15_DivisiblesEntre2\obj\Debug\E15_DivisiblesEntre2.pdb
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E15_DivisiblesEntre2\E15_DivisiblesEntre2\bin\Debug\E15_DivisiblesEntre2.exe.config
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E15_DivisiblesEntre2\E15_DivisiblesEntre2\bin\Debug\E15_DivisiblesEntre2.exe
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E15_DivisiblesEntre2\E15_DivisiblesEntre2\bin\Debug\E15_DivisiblesEntre2.pdb
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E15_DivisiblesEntre2\E15_DivisiblesEntre2\obj\Debug\E15_DivisiblesEntre2.csprojAssemblyReference.cache
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E15_DivisiblesEntre2\E15_DivisiblesEntre2\obj\Debug\E15_DivisiblesEntre2.csproj.CoreCompileInputs.cache
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E15_DivisiblesEntre2\E15_DivisiblesEntre2\obj\Debug\E15_DivisiblesEntre2.exe
+C:\Users\Yesica Moreno\source\ejercicioscaleb\E15_DivisiblesEntre2\E15_DivisiblesEntre2\obj\Debug\E15_DivisiblesEntre2.pdb
